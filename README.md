@@ -1,1 +1,1 @@
-# Code-for-fun
+This repository showcases Python codes on Quantum Mechanics, Statistical Mechanics, and Mathematical Physics. It includes simulations like potential wells, commutators, and statistical distributions. Ideal for students and enthusiasts, the project offers hands-on learning through code, making complex physics concepts more intuitive and accessible.
